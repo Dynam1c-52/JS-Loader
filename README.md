@@ -1,2 +1,2 @@
 # JS-Loader
-Java script downloader 
+A minified java script downloader 
